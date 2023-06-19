@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olukotun O Ahmad========================================================================================================================================Developer.Teacher-----------------i have been developing apps in flutter for some years. now i've decided to start web development* 🌍  I'm based in Nigeria 🇳🇬* ✉️  You can contact me at [ahmadolu001@gmail.com](mailto:ahmadolu001@gmail.com)* 🧠  I'm learning Rust, javascript and anything interesting
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olukotun O Ahmad ====================================================================== Developer,Teacher ===================================================================================
+i have been developing apps in flutter for some years. now i've decided to start web development* 🌍  I'm based in Nigeria 🇳🇬* ✉️  You can contact me at [ahmadolu001@gmail.com](mailto:ahmadolu001@gmail.com)* 🧠  I'm learning Rust, javascript and anything interesting
 
 ### Skills
 
