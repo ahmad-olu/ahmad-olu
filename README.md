@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olukotun Ahmad</h1>
-<h3 align="center">I like dart [Flutter] and rust</h3>
+<h3 align="center">I love dart [Flutter] and rust</h3>
 
 - 💻 i've been coding primarily in dart [flutter]
 - 🌱 I’m learning **rust** at the moment
